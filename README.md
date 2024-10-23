@@ -1,6 +1,6 @@
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ttelolah" alt="ttelolah's 42 stats" /></a>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div align="center">![Laravel](https://img.shields.io/badge/Laravel-FF2D55?style=for-the-badge&logo=laravel&logoColor=white)</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=telolahy" alt="telolahy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
