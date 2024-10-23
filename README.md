@@ -1,5 +1,5 @@
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ttelolah" alt="ttelolah's 42 stats" /></a>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Madagascar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=telolahy" alt="telolahy" /></a> </p>
 
