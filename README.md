@@ -15,19 +15,20 @@
 ## ✅ Projects validated at 42 School
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/libft" alt="libft" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/get_next_line" alt="get_next_line" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/born2beroot" alt="born2beroot" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/ft_printf" alt="ft_printf" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/minitalk" alt="minitalk" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/libfte.png" alt="Libft" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/ft_printfn.png" alt="ft_printf" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/born2berootm.png" alt="born2beroot" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/get_next_linem.png" alt="get_next_line" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/fract-olm.png" alt="fract-ol" width="80" />
   <br />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/fract-ol" alt="fract-ol" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/push_swap" alt="push_swap" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/minishell" alt="minishell" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/philosophers" alt="philosophers" />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/cub3d" alt="cub3d" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/minitalke.png" alt="minitalk" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/push_swapn.png" alt="push_swap" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/philosopherse.png" alt="philosophers" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/minishellm.png" alt="minishell" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/netpracticee.png" alt="netpractice" width="80" />
   <br />
-  <img src="https://badge.mediaplus.ma/greenbinary/ttelolah/project/netpractice" alt="netpractice" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/cub3de.png" alt="cub3d" width="80" />
+  <img src="https://raw.githubusercontent.com/telolahy/42-badges/main/cppe.png" alt="cpp module" width="80" />
 </p>
 
 
